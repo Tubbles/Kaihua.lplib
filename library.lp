@@ -1,0 +1,10 @@
+(librepcb_library ba2ce9e8-dba5-48dd-b415-a543659e3834
+ (name "Kaihua")
+ (description "Kaihua Kailh switches (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2022-01-22T15:23:09Z)
+ (deprecated false)
+ (url "https://github.com/Tubbles/Kaihua.lplib")
+)
