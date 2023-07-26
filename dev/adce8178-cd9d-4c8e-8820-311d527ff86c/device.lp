@@ -1,6 +1,6 @@
 (librepcb_device adce8178-cd9d-4c8e-8820-311d527ff86c
- (name "PG1353")
- (description "Kailh Low Profile Switch Choc V2 featuring a Cherry MX compatible stem")
+ (name "PG1353 Kailh Choc V2")
+ (description "Kailh low profile switch choc V2 featuring a Cherry MX compatible stem")
  (keywords "switch,mechanical,keyboard,kailh,low,profile")
  (author "Tubbles")
  (version "0.1")
